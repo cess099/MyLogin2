@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyLogin</string>
+    <string name="todo">TODO</string>
+    <string name="doctors_note">DOCTORS NOTE</string>
+</resources>
